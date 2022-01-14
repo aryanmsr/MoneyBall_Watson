@@ -30,3 +30,47 @@ reg_2015.csv, elo_2015.csv
 
 *As sports betting continues to rise in popularity, we are curious to see how accurately we can construct a binary classification model to predict wins and losses during the regular season games in the NBA. Our ultimate goal is to use machine learning techniques to capture useful information from game statistics and matchups to predict the winner of each game. The findings will help us identify potential factors concerning how teams win along with valuable insights for NBA sports gambling and fantasy basketball participants.*
 
+## Snapshots
+### Some Visuals
+
+<figure class="half">
+  <table>
+    <tr>
+      <td>
+        <img src="https://miro.medium.com/max/700/1*tCJFiKj-5igXQ2lXAQXxUQ.png" alt="fig1" width = 500>
+      </td>
+      <td>
+        <img src="https://miro.medium.com/max/700/1*fUrD3dT9UWo-BS0bbl89ww.png" alt="fig2" width = 500>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://miro.medium.com/max/700/1*qe2jNs5tqIePCRggD8bKbA.png" alt="fig3" width = 500>
+      </td>
+      <td>
+        <img src="https://miro.medium.com/max/700/1*1zCdOhHaPBkaPvteupJQpQ.png" alt="fig4" width = 500>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://miro.medium.com/max/700/1*ZHJL6_4rV_Cad3wYut6WdQ.png" alt="fig5" width = 500>
+      </td>
+      <td>
+        <img src="https://miro.medium.com/max/700/1*TPxDQBtzYwu8TkOoU1Acbw.png" alt="fig6" width = 500>
+      </td>
+   </tr>
+  </table>
+  <figcaption>Some plots created during the EDA process.</figcaption>
+</figure>
+
+### Model Accuracies 
+
+<figure class="half">
+  <div align="left">
+    <img alt="fig5" src="https://miro.medium.com/max/700/1*foK6QLsSwqF276DyX0_-ZQ.png" width=500 />
+    
+  </div>
+  <figcaption>The Plot above shows the final accuracies of some of the models used in the project.</figcaption>
+</figure>
+
+
